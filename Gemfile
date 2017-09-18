@@ -24,6 +24,9 @@ gem "carrierwave"
 gem "cloudinary"
 gem "carrierwave-base64"
 gem "config"
+gem 'gravatar_image_tag'
+
+gem 'devise-bootstrap-views'
 
 group :development, :test do
   gem "pry"
